@@ -1,3 +1,7 @@
 Merge Conlict 
 
+<<<<<<< HEAD
 Adding data: B
+=======
+Adding data: A
+>>>>>>> b3dc467ae15db75e8e3db41a8021795e0957bf31
